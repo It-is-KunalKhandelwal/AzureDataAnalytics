@@ -1,0 +1,9 @@
+{
+	"name": "Master-Pipeline",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad421931-1067-4da7-9677-5446fe9da3c6",
+		"tenantId": "92c32c46-7816-4014-a41d-454c626baf2e"
+	}
+}
