@@ -1,0 +1,1 @@
+This project focus on building an data analytics solution using azure cloud. Azure Services used in project are Azure Data factory for data integration/orchrestation , databricks for running spark jobs and adls for data storage.
