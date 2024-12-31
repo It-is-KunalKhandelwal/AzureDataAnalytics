@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run ./Config
+# MAGIC %run ../Config
 
 # COMMAND ----------
 
